@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Farhain-Humaira
-- 👀 I’m interested in cat, art and books.
+# 👋 Hi, I’m @Farhain-Humaira
+- 👀 I’m interested in a cat, art and books.
 - 🌱I am pursuing a Bachelor's degree in Computer Science at UiTM Chendering
+- 📚 Reading is a passion of mine, and I'm particularly fond of fiction novels.
+- 💻 Currently exploring coding languages like Python and Jupyter Notebook for my final year project.
+  
+
 
 
 <!---
