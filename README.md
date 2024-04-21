@@ -3,6 +3,7 @@
 - 👀 I’m interested in a cat, art and books.
 - 📚 Reading is a passion of mine, and I'm particularly fond of fiction novels.
 - 💻 Currently exploring coding languages like Python and Jupyter Notebook for my final year project.
+- ✨ Currently internship for my bachelor's degree in Computer Science.
   
 
 
