@@ -1,11 +1,9 @@
 # 👋 Hi, I’m @Farhain-Humaira
-- 🌱I am pursuing a Bachelor's degree in Computer Science at UiTM Chendering
-- 👀 I’m interested in a cat, art and books.
+- 🌱I recently completed my Bachelor's degree in Computer Science at UiTM Chendering.
+- 👀 Passionate about cat, art and books.
 - 📚 Reading is a passion of mine, and I'm particularly fond of fiction novels.
-- 💻 Currently exploring coding languages like Python and Jupyter Notebook for my final year project.
-- ✨ Currently internship for my bachelor's degree in Computer Science.
-  
-
+- 💻 Currently working as a web developer and programmer.
+- ✨ Excited to leverage my skills and experiences in web development and programming as I advance in my career.
 
 
 <!---
